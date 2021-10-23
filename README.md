@@ -46,7 +46,7 @@ https://sourceforge.net/projects/mysqmproesp32/
 or, if you fit in c++, here is a project with proper calibration of the TSL2591.
 https://github.com/gshau/SQM_TSL2591
 
-Unfortunately I can only stumble around with python, so this is still waiting for me to work on. 
+Unfortunately I can only stumble around with python, so this is still work in progress. 
 
 ![Bildschirmfoto 2021-01-08 um 08 20 42](https://user-images.githubusercontent.com/66861958/103986112-75493200-518a-11eb-89cf-feeac8c95ad7.jpg)
 
