@@ -39,7 +39,7 @@ sensorcall.py does the same, but writes the data into a text file called Data.tx
 
 
 -------------------------------
-I have some code in there (deactivated) when I tried to utilize the tsl2591 as a SQM meter, but that doesn’t seem to work. This sensor is not sensitive enough for long exposures. I never got measurements beyond 16 mag/arcs . 
+I have some code in there (deactivated) when I tried to utilize the tsl2591 as a SQM meter, but that doesn’t seem to work for me in python. I never got measurements beyond 16 mag/arcs, even when ramping up gain and exposure time. 
 You can find more info about that here:
 https://sourceforge.net/projects/mysqmproesp32/ 
 
